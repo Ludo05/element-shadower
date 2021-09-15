@@ -8,7 +8,7 @@ function elementShadow(options){
     }
 
     element.forEach( elem => {
-        elem.style.boxShadow = `10px 10px ${options.shadow_type} 1px rgba(0, 0, 0, 0, 0.12)`
+        elem.style.boxShadow = `10px 10px ${options.shadow_type} 10px rgba(10, 10, 10, 0.3)`
 
         if(options.padding === true){
             elem.style.padding = '1em';
