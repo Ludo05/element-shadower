@@ -1,0 +1,19 @@
+{
+  "name": "image-shadows",
+  "version": "0.0.6",
+  "description": "Add shadows to you your elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ludo05/element-shadower.git"
+  },
+  "author": "Lucodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ludo05/element-shadower/issues"
+  },
+  "homepage": "https://github.com/Ludo05/element-shadower#readme"
+}
