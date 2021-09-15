@@ -4,7 +4,7 @@ This module will a border to any element with a classname <b><u>element-shadow</
 
 #Instalation
 
-`npm i elementshadower --save`
+`npm i image-shadows --save`
 
 ...
 
